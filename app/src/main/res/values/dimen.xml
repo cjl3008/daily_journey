@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad_micro">8dp</dimen>
+    <dimen name="pad_small">12dp</dimen>
+    <dimen name="pad_medium">16dp</dimen>
+    <dimen name="logo">48dp</dimen>
+    <dimen name="label_large">128dp</dimen>
+</resources>
